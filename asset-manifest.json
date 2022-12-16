@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/try/static/css/main.073c9b0a.css",
-    "main.js": "/try/static/js/main.247cbcfe.js",
-    "static/media/logo.svg": "/try/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/try/static/css/main.f9753296.css",
+    "main.js": "/try/static/js/main.24300311.js",
+    "static/media/redesign-mockup.png": "/try/static/media/redesign-mockup.b3c8e1205b330d5fec74.png",
+    "static/media/roomkastCover2.png": "/try/static/media/roomkastCover2.d9245c8014298ac1c244.png",
+    "static/media/animecard2.png": "/try/static/media/animecard2.9ccaf6b745ef0181fcd7.png",
+    "static/media/personas.png": "/try/static/media/personas.954db89b66f18812d70f.png",
+    "static/media/personas2.png": "/try/static/media/personas2.55c6b858ef79274eb890.png",
     "index.html": "/try/index.html",
-    "main.073c9b0a.css.map": "/try/static/css/main.073c9b0a.css.map",
-    "main.247cbcfe.js.map": "/try/static/js/main.247cbcfe.js.map"
+    "main.f9753296.css.map": "/try/static/css/main.f9753296.css.map",
+    "main.24300311.js.map": "/try/static/js/main.24300311.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.247cbcfe.js"
+    "static/css/main.f9753296.css",
+    "static/js/main.24300311.js"
   ]
 }
